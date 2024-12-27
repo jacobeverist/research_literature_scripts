@@ -23,3 +23,7 @@ Zotero API query to list files on Zotero hosting service
 - `zotero_list_collection.py`
 
 
+Scrivener compilation pipeline scripts.  Uses Scrivomatic, Pandocomatic, Pandoc, Biber, and Xelatex
+- `scrivener_build`
+
+
