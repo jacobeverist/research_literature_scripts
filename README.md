@@ -24,6 +24,6 @@ Zotero API query to list files on Zotero hosting service
 
 
 Scrivener compilation pipeline scripts.  Uses Scrivomatic, Pandocomatic, Pandoc, Biber, and Xelatex
-- `scrivener_workflow
+- [scrivener_workflow]
 
 
