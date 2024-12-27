@@ -1,11 +1,11 @@
 
-Notes takes from the `compile.sh` file within each of the Scrivener directories in:
+Notes takes from the [compile.sh](compile.sh) file within each of the Scrivener directories in:
 `/Users/username/projects/paper-research-title_mmd`
 
 # Workflow Outline
 - Changes from within [Scrivener] are compiled from within [Scrivener] using the Compile action
 - [Scrivener] runs [Scrivomatic] which is a ruby script pasted into the Compile menu
-- Calls [pandocomatic] which reads the `pandoc/pandocomatic.yaml` file for config options
+- Calls [pandocomatic] which reads the [pandoc/pandocomatic.yaml](pandoc/pandocomatic.yaml) file for config options
 - Calls [pandoc] with the constructed arguments
 - Build the latex file with [xelatex] and build the bibliography with [biber]
 
