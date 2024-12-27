@@ -9,7 +9,7 @@ I use the following applications and devices for my research, writing, and readi
 
 I need ways to integrate their data and leverage their various strengths.
 
-# Scripting Tools I Wrote to Manage My Reseach Literature
+# Scripting Tools to Manage My Research Literature
 
 I mostly use MacOS, but these should work on any OS.
 
