@@ -14,13 +14,13 @@ I need ways to integrate their data and leverage their various strengths.
 I mostly use MacOS, but these should work on any OS.
 
 Script to move PDFs to Remarkable while preserving the directory structure on the tablet OS
-- `remarkable_migrate_papers.py`
+- [remarkable_migrate_papers.py](remarkable_migrate_papers.py)
 
 Example script for bulk-renaming of files in the file system based on a regular expression and renaming based on regex groups
-- `rename_files.py`
+- [rename_files.py](rename_files.py)
 
 Zotero API query to list files on Zotero hosting service
-- `zotero_list_collection.py`
+- [zotero_list_collection.py](zotero_list_collection.py)
 
 
 Scrivener compilation pipeline scripts.  Uses Scrivomatic, Pandocomatic, Pandoc, Biber, and Xelatex
